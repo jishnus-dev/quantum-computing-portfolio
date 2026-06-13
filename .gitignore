@@ -1,0 +1,6 @@
+qiskit_env/
+__pycache__/
+.ipynb_checkpoints/
+test/
+results/
+VQE_Project_*/
